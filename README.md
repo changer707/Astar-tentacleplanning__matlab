@@ -1,4 +1,4 @@
-# A*算法的matlab代码
+# A*算法
 ### Astar算法思路<br>
 1.将起始点放在Openlist中<br>
 2.重复以下过程：<br>
