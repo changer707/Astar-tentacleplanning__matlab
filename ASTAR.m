@@ -67,7 +67,7 @@ while ~findflag
 %     画网格线
     LINEGRID(map);
     hold on;
-    pause(0.001);
+    pause(0.01);
     %绘制close和open节点
     FillPlot(close,'g');
     hold on;
